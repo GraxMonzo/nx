@@ -25,6 +25,7 @@ module.exports = {
     { name: 'nx-plugin', description: 'anything Nx Plugin specific' },
     { name: 'react', description: 'anything React specific' },
     { name: 'react-native', description: 'anything React Native specific' },
+    { name: 'expo', description: 'anything Expo specific' },
     { name: 'detox', description: 'anything Detox specific' },
     { name: 'web', description: 'anything Web specific' },
     { name: 'linter', description: 'anything Linter specific' },
